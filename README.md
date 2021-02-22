@@ -9,7 +9,7 @@ https://codepen.io/takashi-yoshioka/pen/OJbxovp
 https://codepen.io/takashi-yoshioka/pen/jOVGvJK
 
 
-原案[1-9](https://codepen.io/your-work?cursor=ZD0xJm89MCZwPTEmdj01MDM3MzU5Nw==)
+[原案1-9](https://codepen.io/your-work?cursor=ZD0xJm89MCZwPTEmdj01MDM3MzU5Nw==)
 
 
 https://twitter.com/takagotchtwit
